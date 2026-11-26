@@ -1,6 +1,7 @@
 {
   "name": "SITERA - Griya Sehat Rahmawati",
   "short_name": "SITERA",
+  "id": "/sirahma-pwa/sitera/",
   "description": "Sistem Informasi Transaksi dan Keuangan Rahmawati",
   "start_url": "/sirahma-pwa/sitera/",
   "scope": "/sirahma-pwa/sitera/",
