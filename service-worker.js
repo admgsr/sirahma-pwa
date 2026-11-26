@@ -1,4 +1,4 @@
-const CACHE_NAME = "sirahma-v1";
+const CACHE_NAME = "sirahma-v2";
 
 self.addEventListener("install", event => {
   self.skipWaiting();
